@@ -1,0 +1,26 @@
+.dark {
+    background-color: #212121;
+    color: #ddd
+}
+
+.light {
+    background-color: #ddd;
+    color: #212121;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    margin-top: 20px;
+}
+button{
+    margin-right: 20px;
+    margin-top: 20px;
+}
